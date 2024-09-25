@@ -41,7 +41,7 @@ A simple and efficient task management application built with **React** and **Ty
 
 ## 📈 GitHub Stats
 
-![Marian's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Marian's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheMarian85&show_icons=true&theme=radical)
 
 ## 🌐 Connect with Me
 
