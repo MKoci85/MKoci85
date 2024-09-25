@@ -1,4 +1,4 @@
-# Hi there, I'm Marian 👋
+# Hi there, I'm Mariano 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a keen interest in web development and programming. Here you'll find a collection of my projects, ranging from beginner tutorials to more advanced applications.
 
