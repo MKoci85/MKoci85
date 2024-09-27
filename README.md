@@ -10,18 +10,17 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🛠️ Technologies & Tools
 
+- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) **Java**
+- ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=database&logoColor=white&style=flat) **SQL**
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat) **React**
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat) **JavaScript**
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat) **TypeScript**
-- ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat) **Vite**
 - ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat) **Tailwind CSS**
 - ![Zustand](https://img.shields.io/badge/-Zustand-E5E5E5?logo=zustand&logoColor=black&style=flat) **Zustand**
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) **Git**
-- ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat) **GitHub**
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) **Python**
 - ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat) **Flask**
 - ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat) **Django**
-- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) **Java**
-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=database&logoColor=white&style=flat) **SQL**
 
 
 
