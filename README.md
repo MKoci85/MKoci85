@@ -20,6 +20,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) **Python**
 - ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat) **Flask**
 - ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat) **Django**
+- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat) **Java**
+- ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=database&logoColor=white&style=flat) **SQL**
+
 
 
 ## 📚 Notable Projects
